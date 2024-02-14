@@ -1,0 +1,15 @@
+<div *ngIf="pokemon">
+  <h2>{{ pokemon.name }}</h2>
+  <img [src]="pokemon.image" alt="{{ pokemon.name }}" />
+  <p>ID: {{ pokemon.id }}</p>
+  <p>Height: {{ pokemon.height }}</p>
+  <p>Weight: {{ pokemon.weight }}</p>
+  <p>Types:</p>
+  <ul>
+    <li *ngFor="let type of pokemon.types">{{ type }}</li>
+  </ul>
+</div>
+
+<div *ngIf="!pokemon">
+  <p>Loading...</p>
+</div>

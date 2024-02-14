@@ -1,0 +1,19 @@
+/*header {*/
+  /* display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1px;
+  box-shadow: 5px 5px 3px lightgray;
+  padding: 25px;
+  border-radius: 5px;*/
+
+  /*display: flex;
+  justify-content: space-between;
+  align-items: center;*/ /* Updated to vertically center items */
+  /*margin-bottom: 1px;*/ /* Adjust margin as needed */
+  /*background-color: black;*/ /* New background color */
+  /*color: white;*/ /* New text color */
+  /*padding: 25px;*/ /* Reduced padding for compactness */
+  /*border-radius: 5px;
+  font-family: 'Poppins', sans-serif;*/ /* New font family */
+/*}*/

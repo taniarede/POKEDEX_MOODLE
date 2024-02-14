@@ -1,0 +1,47 @@
+/*//Pokemon Grid*/
+/*.pokemon-grid {
+  display: grid;
+  grid-template-rows: auto;
+  grid-gap: 16px;
+  padding: 1px;
+  grid-template-columns: repeat(auto-fill, minmax(20%, 1fr));
+}
+
+  .pokemon-grid .box {
+    width: 100%;
+    min-height: 200px auto;
+    box-shadow: 5px 5px 3px lightgray;
+    overflow: auto;
+    margin: 30px auto;
+  }
+
+pagination-controls {
+  text-align: right;
+}
+
+
+.pagination {
+  text-align: right;
+ margin-top: 1px;*/ /* Adjust margin as needed */
+  /*margin-bottom: 1px;
+}
+
+  .pagination button {
+    background: #000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 5px;
+    font-family: inherit;
+  }
+
+    .pagination button:focus {
+      outline: none;
+    }
+
+    .pagination button:active {
+      transform: scale(0.98);
+    }*/

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\header",
+    "\\src\\app\\components\\home",
+    "\\src\\app\\components\\pokemon-details",
+    "\\src\\app\\components\\pokemon-list",
+    "\\src\\app\\components\\search-bar",
+    "\\src\\app\\services"
+  ],
+  "SelectedNode": "\\src\\app\\app.module.ts",
+  "PreviewInSolutionExplorer": false
+}
